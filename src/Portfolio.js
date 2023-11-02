@@ -14,7 +14,7 @@ function Portfolio() {
         <h1 className="text-5xl font-bold">PORTFOLIO </h1>
         <p className="mt-3">
           {" "}
-          ipsum dolor sit amet consectetur adipisicing elit. Veniam, beatae.{" "}
+          ipsum dolor sit amet consectetur adipisicing elit. Veniam, beatae. HARISH{" "}
         </p>
         <p className="flex justify-center h-1 w-11 bg-orange-400 mt-4"></p>
       </div>
