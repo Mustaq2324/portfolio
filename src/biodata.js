@@ -13,7 +13,7 @@ function biodata() {
           </div>
           <div className="bg-re w-full flex gap-1 mt-2">
             <h1 className="font-bold">Profile :</h1>
-            <p className="text-gray-500">Ful Deveolper</p>
+            <p className="text-gray-500">Full Deveolper</p>
           </div>
           <div className="bg-re w-full flex gap-1  mt-2">
             <h1 className="font-bold">Email :</h1>
