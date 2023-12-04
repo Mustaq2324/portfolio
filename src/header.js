@@ -37,7 +37,7 @@ function Header() {
     <div className="body">
       <div className={`h-20 p-2 z-50 top-0 sticky text-white bg-black w-full ${color ? "bg-orange-600" : "bg-black"} transition-all duration-500`}>
         <div className="flex justify-between p-3 items-center">
-          <h1 className="text-2xl font-bold">HarishFolio</h1>
+          <h1 className="text-2xl font-bold">PortFolio</h1>
           <span className="text-2xl" onClick={handleNavbar}>
             <FaBars />
           </span>
