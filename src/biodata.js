@@ -1,13 +1,9 @@
 import React from "react";
-import bioimg from "./img/edited.png";
 function biodata() {
   return (
-    <div className="mt-5 ml-5">
-      <div className="w-[280px] h-full shadow-sm shadow-slate-600 p-5">
-        <div className="w-[150px] h-[150px] bg-black  flex items-center justify-center">
-          <img src={bioimg} alt="profile-img" className="w-[150px] h-[150px]" />
-        </div>
-
+    <div className="flex justify-center items-center w-full">
+      <div className=" h-full shadow-sm shadow-slate-600 p-5">
+      
         <div className="mt-6 w-full ">
           {" "}
           {/* BIODATA */}
