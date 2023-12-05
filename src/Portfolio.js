@@ -18,7 +18,7 @@ function Portfolio() {
         </p>
         <p className="flex justify-center h-1 w-11 bg-orange-400 mt-4"></p>
       </div>
-      {/* IMAGES SEC */}
+  
       <div className="mt-9 shadow-slate-700  shadow-xl p-4">
         <img src={pimg1} alt="project"></img>
         <h1 className="text-xl mt-8">Project NO 1</h1>

@@ -6,7 +6,7 @@ function biodata() {
       
         <div className="mt-6 w-full ">
           {" "}
-          {/* BIODATA */}
+    
           <div className="bg-re w-full flex gap-1 ">
             <h1 className="font-bold">Name :</h1>
             <p className="text-gray-500">Harish</p>
@@ -24,7 +24,7 @@ function biodata() {
             <p className="text-gray-500">9025870868</p>
           </div>
           <div>
-            {/*    RANGE BAR */}
+            
             <h1 className="mt-5  font-bold">SKILL</h1>
             <div>
               <div className="w-full">
@@ -62,12 +62,11 @@ function biodata() {
                 </h1>
               </div>
             </div>{" "}
-            {/* RANGER BAR FOTTER */}
+        
           </div>
         </div>
         <div>
           {" "}
-          {/*ABOUTME */}
           <h1 className="mt-8 font-bold text-3xl">About me</h1>
           <h1 className="w-[40%] h-1 bg-orange-400 mt-1"> </h1>
          <div className="text-gray-500 text-lg mt-9">
