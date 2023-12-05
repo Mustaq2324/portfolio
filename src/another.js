@@ -17,7 +17,7 @@ function another() {
             <div className="absolute z-20 ">
              <div className="flex flex-col justify-center ml-[80px] items-center">
              <span className="text-6xl flex  justify-center items-center  border-[9px] mt-7  border-orange-400  rounded-full w-[100px] h-[100px] p-2"><IoMdCheckmarkCircle /></span>
-               <h1 className="font-bold text-xl mt-3 ">450</h1>
+               <h1 className="font-bold text-xl mt-3 ">420</h1>
                <h2 className="text-lg">  WORKS COMPLETED</h2>
              </div>
           </div>
